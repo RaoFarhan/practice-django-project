@@ -1,0 +1,1 @@
+web: cd ./src && uvicorn automax.asgi
